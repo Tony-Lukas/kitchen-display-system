@@ -8,8 +8,8 @@ const links = [
   { href: "/chefs", label: "Chefs" },
   { href: "/menu", label: "Menu" },
   { href: "/orders", label: "Orders" },
-  { href: "/queue", label: "Kitchen queue" },
-  { href: "/display/queue", label: "Queue display" },
+  { href: "/queue", label: "Queue Display" },
+  { href: "/kitchen", label: "Kitchen Queue" },
 ];
 
 export default function KitchenLayout({
